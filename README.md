@@ -5,14 +5,12 @@
 
 ## Sobre Mí
 
-Actualmente continúo mi formación profesional como estudiante de **Ingeniería de Sistemas** en la **Universidad Internacional del Trópico Americano (Unitrópico)**. 
+Actualmente continúo mi formación profesional como estudiante de **Ingeniería de Sistemas** en la **Universidad Internacional del Trópico Americano**. 
 
 Mi trayectoria académica previa respalda mis competencias técnicas y metodológicas en el ciclo de vida del desarrollo de software a través de las siguientes titulaciones obtenidas:
 
 * **Tecnólogo en Diseño y Desarrollo de Software**
 * **Técnico Profesional en Desarrollo para Dispositivos Móviles**
-
-He liderado y colaborado en diversos proyectos universitarios y soluciones autónomas, aplicando buenas prácticas, patrones de diseño y metodologías ágiles para la resolución de problemáticas reales mediante código optimizado.
 
 ---
 
