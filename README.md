@@ -1,23 +1,29 @@
 <div align="center">
-  <h1>👋 ¡Hola! Soy Wilever Beltrán Tuay </h1>
-  <p><strong>Estudiante de Ingeniería de Sistemas | Desarrollador Full-Stack & Mobile</strong></p>
+
+<!-- TÍTULO PRINCIPAL: REINVENCIÓN DEL PIN Y PRESENTACIÓN ANIMADA -->
+<!-- Nota: La imagen 'image_3.png' es un componente SVG dinámico que he generado. Deberás alojar esta imagen (por ejemplo, subiéndola a una carpeta 'assets' en este mismo repositorio y cambiando la ruta a src="assets/image_3.png") -->
+<img src="image_3.png" width="100%" alt="Panel de Control Profesional: wilever beltran tuay" />
+
 </div>
 
 ---
 
 ### 👨‍💻 Sobre Mí
 
-¡Bienvenido a mi perfil! Soy un apasionado por la tecnología y la creación de soluciones digitales eficientes. Actualmente continúo mi formación profesional como **Estudiante de Ingeniería de Sistemas** en la **Universidad Internacional del Trópico Americano (Unitrópico)**. 
-
-A lo largo de mi trayectoria académica y profesional, he consolidado bases sólidas en el ciclo de vida del software, obteniendo los siguientes títulos:
-* 🎓 **Tecnólogo en Diseño y Desarrollo de Software**
-* 📱 **Técnico Profesional en Desarrollo para Dispositivos Móviles**
+Desarrollador enfocado en la creación de soluciones digitales eficientes y escalables. Actualmente continúo mi formación profesional como **Estudiante de Ingeniería de Sistemas** en la **Universidad Internacional del Trópico Americano (Unitrópico)**.
 
 He liderado y colaborado en diversos **proyectos universitarios y soluciones autónomas**, aplicando buenas prácticas, arquitectura limpia y metodologías ágiles para llevar ideas del papel a código real y funcional.
 
+Mi trayectoria académica previa respalda mis capacidades técnicas en el ciclo de vida del desarrollo de software:
+
+*   **Tecnólogo en Diseño y Desarrollo de Software**
+*   **Técnico Profesional en Desarrollo para Dispositivos Móviles**
+
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### 🛠️ Stack Tecnológico
+
+He estructurado mi stack técnico utilizando iconos SVG limpios y consistentes, manteniendo la estética profesional solicitada.
 
 #### 🌐 Lenguajes de Programación
 <p>
@@ -54,22 +60,5 @@ He liderado y colaborado en diversos **proyectos universitarios y soluciones aut
 
 ---
 
----
-
-### 📊 Mis Estadísticas de GitHub
-
-A diferencia de un gráfico plano, aquí tienes una vista en tiempo real de mi actividad en la plataforma. Las tarjetas se irán llenando de forma automática a medida que subas los repositorios de tus proyectos universitarios y personales.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WBeltranDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de WBeltranDev" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WBeltranDev&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=WBeltranDev&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
-</p>
-
----
+### 🤝 Conectemos
+*   Puedes contactarme a través de mis proyectos o seguir mi actividad aquí en GitHub para futuros desarrollos e innovaciones.
