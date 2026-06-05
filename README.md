@@ -54,20 +54,22 @@ He liderado y colaborado en diversos **proyectos universitarios y soluciones aut
 
 ---
 
+---
+
 ### 📊 Mis Estadísticas de GitHub
 
-A diferencia de un gráfico plano, aquí tienes una vista interactiva y en tiempo real de mi actividad en la plataforma. La tarjeta circular de la derecha detecta automáticamente los lenguajes que más utilizo en mis repositorios.
+A diferencia de un gráfico plano, aquí tienes una vista en tiempo real de mi actividad en la plataforma. Las tarjetas se irán llenando de forma automática a medida que subas los repositorios de tus proyectos universitarios y personales.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WBeltranDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Estadísticas de WBeltranDev" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WBeltranDev&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WBeltranDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de WBeltranDev" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WBeltranDev&theme=tokyonight&hide_border=true" width="97%" alt="Racha de contribuciones" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WBeltranDev&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=WBeltranDev&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </p>
 
 ---
-
-### 🤝 Conectemos
-* 📩 Puedes contactarme a través de mis proyectos o seguir mi actividad aquí en GitHub para futuros desarrollos e innovaciones.
